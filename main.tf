@@ -16,7 +16,7 @@ resource "aws_instance" "ubuntu" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "GDEND UBUNTU"
+    Name = "GDEND UBUNTU2"
   }
 }
 
